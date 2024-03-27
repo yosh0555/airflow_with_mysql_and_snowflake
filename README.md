@@ -76,7 +76,7 @@ airflow standalone
 
 2. Copy the password that is generated in the terminal
 
-![Copy the password from the terminal](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/airflow_password.png?raw=true)
+![Copy the password from the terminal](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/images/airflow_password.png)
 
 3. Go to the browser and type the following url
 
@@ -86,5 +86,5 @@ YourAirflowHostName:8080
 
 4. Login to Airflow by entering the Username and Password which was generated in the terminal
 
-![Enter the credentials to login into the Airflow WebUI](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/airflow_login.png?raw=true)
+![Enter the credentials to login into the Airflow WebUI](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/images/airflow_login.png)
 
