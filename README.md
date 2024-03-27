@@ -9,7 +9,7 @@ sh installer.sh
 2. Now extract the spark tar file
 
 ```bash
-tar -xvcf spark-3.3.0-bin-hadoop3.tgz
+tar -xvf spark-3.3.0-bin-hadoop3.tgz
 ```
 
 3. Move the spark directory to /usr/bin/
