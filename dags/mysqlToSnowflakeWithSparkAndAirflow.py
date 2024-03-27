@@ -19,6 +19,7 @@ mysqltosfdag = DAG('mysql_to_snowflake_poc',
         catchup=True
 )
 
+# Define a task to run Spark job
 spark_job = SparkSubmitOperator(
         task_id = 'spark_job_task',
         application = '/home/yosh0555/spark.py',

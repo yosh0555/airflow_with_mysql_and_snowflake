@@ -45,7 +45,7 @@ vi mysqlAirFlow.py
 
 ![Graph Option](https://github.com/yosh0555/airflow_with_mysql_and_snowflake/blob/master/images/graph_opt.png)
 
-11. Congrats the DAG program ran successfully table was create in MySQL server and the records were inserted in the table
+11. Congrats the DAG program ran successfully, the table was created in MySQL server and the records were inserted in the table
 
 ![Run Successful](https://github.com/yosh0555/airflow_with_mysql_and_snowflake/blob/master/images/run_successful.png)
 
