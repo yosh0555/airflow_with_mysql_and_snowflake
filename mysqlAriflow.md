@@ -14,7 +14,7 @@
 
 4. Now enter the MySQL endpoint in "Host" field, database name in "Schema" field, username in "Login" field, password in "Password" field and post number as 3306
 
-![Enter the information related to MySQL database](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/images/mysql_creds_details.png)
+![Enter the information related to MySQL database](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/images/mysqldb_creds_details.png)
 
 5. Now click on the "Save" button on the bottom left
 
