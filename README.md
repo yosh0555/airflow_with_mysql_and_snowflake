@@ -87,4 +87,3 @@ YourAirflowHostName:8080
 4. Login to Airflow by entering the Username and Password which was generated in the terminal
 
 ![Enter the credentials to login into the Airflow WebUI](https://github.com/yosh0555/ariflow_with_mysql_and_snowflake/blob/master/images/airflow_login.png)
-
