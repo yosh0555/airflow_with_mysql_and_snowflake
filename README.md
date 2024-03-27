@@ -36,3 +36,41 @@ export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin
 ```bash
 source ~/.bashrc
 ```
+
+
+#   Setting pyspark python version to 3.8   #
+
+1. Use the following command to check which python version being used by pyspark
+
+```bash
+pyspark
+```
+
+2. If the version is not 3.8, open the .bashrc file with an editor
+
+```bash
+vi ~/.bashrc
+```
+
+3. Type in the following command to setup environment variable for python used by pyspark
+
+```
+export PYSPARK_PYTHON=/usr/bin/python3.8
+export PYSPARK_DRIVER_PYTHON=/usr/bin/python3.8
+```
+
+4. Use the following command to apply the changes in .bashrc file
+
+```bash
+source ~/.bashrc
+```
+
+
+#   Starting the airflow server and logging into the webUI    #
+
+1. Use the following command to start the airflow server
+```bash
+airflow standalone
+```
+
+2. Copy the password that is generated in the terminal
