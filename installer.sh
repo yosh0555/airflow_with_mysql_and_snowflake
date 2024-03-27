@@ -8,11 +8,9 @@ sudo pip install apache-airflow
 sudo apt install default-libmysqlclient-dev -y
 sudo apt-get install libmysqlclient-dev
 
-
 # to manage library files
 sudo apt-get install pkg-config
 sudo apt-get install software-properties-common -y
-
 
 # installers for spark
 sudo apt-get install openjdk-11-jdk -y
